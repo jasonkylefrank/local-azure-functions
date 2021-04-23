@@ -21,7 +21,7 @@
       "name": "outputDocument",
       "databaseName": "my-database",
       "collectionName": "my-container",
-      "createIfNotExists": "false",
+      "createIfNotExists": "true",
       "connectionStringSetting": "CosmosDbConnectionString"
     }
   ]
