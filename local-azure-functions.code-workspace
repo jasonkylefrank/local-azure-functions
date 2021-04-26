@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "./functionApp"
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen"
+	}
+}
